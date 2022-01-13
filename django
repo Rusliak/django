@@ -1,0 +1,13 @@
+''''
+pip install django
+#Установка джанги
+
+django-admin startproject taskmanager
+#Создание проекта с названием taskmanager
+
+#---------------------------------------------------------------------
+python manage.py runserver
+#Запуск сервера
+cd taskmanager
+#Сначала, надо запустить этот код
+'''
